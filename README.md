@@ -15,5 +15,5 @@ Desenvolvo bots para Discord, crio APIs, construo sites e outros projetos, com f
   ##
  
 <div> 
- <a href="https://discord.gg/embreve..." target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href="https://discordlookup.com/user/1130622937087627426" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
