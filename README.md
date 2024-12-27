@@ -4,7 +4,7 @@ Desenvolvo bots para Discord, crio APIs, construo sites e outros projetos, com f
 <table>
  <a href="https://github.com/UnkoynX777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unkoynx777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkoynx777&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkoynx777&layout=compact&langs_count=6&theme=tokyonight"/>
   <img align="center" alt="UnkoynX7-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="UnkoynX7-Ts"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="UnkoynX7-Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
