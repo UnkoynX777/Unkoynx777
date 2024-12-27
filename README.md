@@ -3,10 +3,10 @@ Desenvolvo bots para Discord, crio APIs, construo sites e outros projetos, com f
 
 <div style="display: flex; align-items: center; gap: 16px;">
   <a href="https://github.com/UnkoynX777">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=unkoynx777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=unkoynx777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/UnkoynX777">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkoynx777&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkoynx777&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 
