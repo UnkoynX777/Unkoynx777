@@ -6,7 +6,7 @@ Desenvolvo bots para Discord, crio APIs, construo sites e outros projetos, com f
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unkoynx777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/UnkoynX777">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkoynx777&layout=compact&langs_count=6&theme=tokyonight&card_width=180"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkoynx777&layout=compact&langs_count=6&theme=tokyonight&card_width=130"/>
   </a>
 </div>
 
