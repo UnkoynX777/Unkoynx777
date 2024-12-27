@@ -2,6 +2,9 @@
 Desenvolvo bots para Discord, crio APIs, construo sites e outros projetos, com foco em soluções eficientes e inovadoras, sempre buscando contribuir com a evolução da comunidade tecnológica.
 
 <div style="display: inline_block"><br>
+ <a href="https://github.com/UnkoynX777">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unkoynx777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkoynx777&layout=compact&langs_count=6&theme=tokyonight"/>
   <img align="center" alt="UnkoynX7-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="UnkoynX7-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="UnkoynX7-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
