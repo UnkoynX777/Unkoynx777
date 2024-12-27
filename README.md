@@ -1,7 +1,7 @@
 ## Olá eu sou o UnkoynX7, CEO da Nexus e sou da Stopped Team.
 Desenvolvo bots para Discord, crio APIs, construo sites e outros projetos, com foco em soluções eficientes e inovadoras, sempre buscando contribuir com a evolução da comunidade tecnológica.
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 16px;">
+<div style="display: flex; align-items: center; gap: 16px;">
   <a href="https://github.com/UnkoynX777">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unkoynx777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
