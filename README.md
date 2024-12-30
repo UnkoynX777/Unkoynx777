@@ -12,6 +12,7 @@ Desenvolvo bots para Discord, crio APIs, construo sites e outros projetos, com f
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 16px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="120" alt="UnkoynX7-Js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="120" alt="UnkoynX7-NodeJs">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="120" alt="UnkoynX7-Ts">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120" alt="UnkoynX7-Python">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="120" alt="UnkoynX7-Csharp">
