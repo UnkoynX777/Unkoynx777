@@ -1,4 +1,4 @@
-## 👋 Olá, sou UnkoynX7! CEO da Nexus e Organizational Consultant da Stopped.
+## 👋 Olá, sou UnkoynX7! CEO da Nexus e Developer da Stopped.
 
 Sou um desenvolvedor experiente com formação acadêmica em tecnologia e anos de atuação na indústria. Especializado na criação de **bots para Discord**, **APIs eficientes**, **sites dinâmicos** e soluções inovadoras para diversos projetos. Minha jornada profissional inclui a participação em diversas iniciativas tecnológicas, sempre com foco em **eficiência, segurança e inovação**.
 
