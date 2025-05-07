@@ -16,10 +16,10 @@ Sou um desenvolvedor experiente com formação acadêmica em tecnologia e anos d
 ### 📊 **Minhas Estatísticas**
 <p align="center">
   <a href="https://github.com/UnkoynX777">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=unkoynx777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=unkoynx777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="UnkoynX777's GitHub Stats"/>
   </a>
   <a href="https://github.com/UnkoynX777">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkoynx777&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkoynx777&layout=compact&langs_count=7&theme=tokyonight" alt="UnkoynX777's Top Languages"/>
   </a>
 </p>
 
